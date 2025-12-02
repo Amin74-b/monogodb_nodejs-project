@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-nodejs-project",
+  "version": "1.0.0",
+  "description": "MongoDB and Mongoose learning project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
